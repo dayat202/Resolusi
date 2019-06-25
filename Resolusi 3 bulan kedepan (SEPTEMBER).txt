@@ -4,5 +4,8 @@
 - Mampu menggunakan dan Membuat RESTFULL API
 - Mneguasai AJAX
 - Memiliki 3 Website Responsif dan Dinamis
-- Menguasai Minimal dasar-dasar Desain menggunakan ps/gimp/inkscpape/cd
+- Memiliki 3 Aplikasi Desktop
+- Menguasai Laravel 
+- expert / mampu mendesain menggunakan ps/gimp/inkscpape/cd tanpa nonton tutorial
+- Siap / sudah memiliki pekerjaan
 
